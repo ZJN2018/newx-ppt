@@ -1,0 +1,282 @@
+{
+ "settings": {
+  "title": "NEWX PPT 组件样张",
+  "subtitle": "v2 新增卡片样式与卡内小逻辑",
+  "org": "NEWX PPT",
+  "date": "",
+  "preset": "政务红",
+  "corner": "round",
+  "footer": "虚构测试素材｜生产运营部 2026 年度工作总结",
+  "photos": {
+   "online": false
+  },
+  "filename": "组件样张"
+ },
+ "sections": [
+  {
+   "name": "组件样张",
+   "desc": "表头条卡、编号卡、行标签卡、标签胶囊、提示条、图标步骤、大数字对、卡内分区、图片格"
+  }
+ ],
+ "pages": [
+  {
+   "section": "组件样张",
+   "separation": "纯卡片",
+   "title": "供应链协同：从年度评审转向过程协同",
+   "partition": {
+    "cut": "v",
+    "ratio": [
+     1,
+     1
+    ],
+    "children": [
+     {
+      "role": "主证据",
+      "title": "过程协同",
+      "element": {
+       "type": "stack",
+       "items": [
+        [
+         {
+          "type": "para",
+          "lead": "对 28 家核心供应商实施驻厂辅导",
+          "body": "帮助 12 家供应商完成产能扩充，关键物料交付准时率由 82.6% 提升至 94.8%，提升 12.2 个百分点。"
+         },
+         3
+        ],
+        [
+         {
+          "type": "tags",
+          "items": [
+           "驻厂辅导",
+           "产能扩充",
+           "联合库存",
+           "物料标准化"
+          ]
+         },
+         2
+        ],
+        [
+         {
+          "type": "tip",
+          "text": "关键物料交付稳定后，排产不再以催料为前提",
+          "kind": "info"
+         },
+         1
+        ]
+       ]
+      },
+      "card": "header"
+     },
+     {
+      "role": "主证据",
+      "title": "物料标准化",
+      "element": {
+       "type": "stack",
+       "items": [
+        [
+         {
+          "type": "para",
+          "lead": "物料规格由 3,872 种压缩至 2,640 种",
+          "body": "减少 31.8%，通用件比例提升至 62%，采购复杂度下降，库存资金占用下降约 4,800 万元。"
+         },
+         3
+        ],
+        [
+         {
+          "type": "tags",
+          "items": [
+           "规格压缩",
+           "通用件 62%",
+           "资金占用下降"
+          ]
+         },
+         2
+        ],
+        [
+         {
+          "type": "tip",
+          "text": "规格压缩需同步更新设计选型目录，避免反弹",
+          "kind": "warn"
+         },
+         1
+        ]
+       ]
+      },
+      "card": "header"
+     }
+    ]
+   }
+  },
+  {
+   "section": "组件样张",
+   "separation": "纯卡片",
+   "title": "三号工厂爬坡：三项措施把产能利用率提升至 86%",
+   "partition": {
+    "cut": "h",
+    "ratio": [
+     56,
+     44
+    ],
+    "children": [
+     {
+      "cut": "v",
+      "ratio": [
+       1,
+       1,
+       1
+      ],
+      "children": [
+       {
+        "role": "主证据",
+        "title": null,
+        "element": {
+         "type": "para",
+         "lead": "拆解瓶颈工位",
+         "body": "识别焊接、总装、检测三个关键瓶颈，逐工位制定改善方案。"
+        },
+        "card": "number"
+       },
+       {
+        "role": "主证据",
+        "title": null,
+        "element": {
+         "type": "para",
+         "lead": "老带新编组",
+         "body": "抽调 36 名骨干驻场，新员工上岗周期由 12 周压缩至 7 周。"
+        },
+        "card": "number"
+       },
+       {
+        "role": "主证据",
+        "title": null,
+        "element": {
+         "type": "para",
+         "lead": "日例会跟踪",
+         "body": "当日未达标工序当日分析、次日跟踪，问题不过夜。"
+        },
+        "card": "number"
+       }
+      ]
+     },
+     {
+      "role": "结论",
+      "title": "爬坡成效",
+      "element": {
+       "type": "num_pair",
+       "items": [
+        [
+         "86",
+         "%",
+         "9 月底产能利用率，投产初期长期低于 60%"
+        ],
+        [
+         "18.2",
+         "万台",
+         "全年为公司贡献的增量产量"
+        ]
+       ]
+      },
+      "card": "label"
+     }
+    ]
+   }
+  },
+  {
+   "section": "组件样张",
+   "separation": "线卡混用",
+   "title": "数字化车间：从采集展示转向闭环处置",
+   "partition": {
+    "cut": "v",
+    "ratio": [
+     37,
+     63
+    ],
+    "children": [
+     {
+      "role": "结论",
+      "title": "判断",
+      "element": {
+       "type": "split_note",
+       "main": {
+        "type": "statement",
+        "text": "年内打通派工、反馈、验证三个环节，分析场景使用率提升至 70%"
+       },
+       "note": "MES 数据采集覆盖率已达 92.6%，但用于决策的分析场景不足三成。"
+      },
+      "fill": "重点"
+     },
+     {
+      "cut": "h",
+      "ratio": [
+       52,
+       48
+      ],
+      "children": [
+       {
+        "role": "主证据",
+        "title": "闭环处置三个环节",
+        "element": {
+         "type": "icon_steps",
+         "items": [
+          [
+           "异常派工",
+           "设备与质量异常自动派单",
+           "setting"
+          ],
+          [
+           "处置反馈",
+           "一线处置结果实时回传",
+           "message"
+          ],
+          [
+           "效果验证",
+           "复盘确认后关闭",
+           "check-one"
+          ]
+         ]
+        }
+       },
+       {
+        "cut": "v",
+        "ratio": [
+         1,
+         1
+        ],
+        "children": [
+         {
+          "role": "辅证据",
+          "title": "配套任务",
+          "element": {
+           "type": "points",
+           "items": [
+            [
+             "误报率降至 10% 以下",
+             "预测性维护模型优化",
+             "data"
+            ],
+            [
+             "试点排产智能优化",
+             "减少换型损失",
+             "cycle"
+            ]
+           ]
+          }
+         },
+         {
+          "role": "辅证据",
+          "title": null,
+          "element": {
+           "type": "photo",
+           "topic": "科技"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

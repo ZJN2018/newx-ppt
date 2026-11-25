@@ -1,0 +1,139 @@
+{
+ "version": 2,
+ "items": {
+  "B3-052": {
+   "page": {
+    "file": "B3-052-page.pptx",
+    "sha256": "b95d25f72cade62af0069aa9e65d404a060f59e09a9ea5e63bf18992ae592685"
+   },
+   "region": {
+    "file": "B3-052-region.pptx",
+    "sha256": "2c3dd8340e7ae35aee89e90ec684abab6f7102163d4ede8cb7b718a699728552"
+   }
+  },
+  "B3-065": {
+   "page": {
+    "file": "B3-065-page.pptx",
+    "sha256": "0cc98e9cc6d78c0068f0aea0c2cfb47894494c7c8cdff0c2c9370935d2bb404e"
+   },
+   "region": {
+    "file": "B3-065-region.pptx",
+    "sha256": "886c9247f4288af968f6d1237b20ff76d3fdcdfee1a8b6d166a8f838b13e3bfc"
+   }
+  },
+  "B3-115": {
+   "page": {
+    "file": "B3-115-page.pptx",
+    "sha256": "11f4a2a64052946cb41c07d183b73a5f93f2082e6d6a13e9b964d3457bc5bc32"
+   }
+  },
+  "B5-072": {
+   "page": {
+    "file": "B5-072-page.pptx",
+    "sha256": "4ca76314e5e6a8119168f602fd020202a6bd32df770014351a8c03c8d6c8d4c0"
+   },
+   "component": {
+    "file": "B5-072-component.pptx",
+    "sha256": "fbbf3048528763d943d66d1b6163530bea800e107bc96b9e458399be79263527"
+   }
+  },
+  "B5-142": {
+   "page": {
+    "file": "B5-142-page.pptx",
+    "sha256": "1d70a1e3ff4edcbd9018942fe4bb43059eaefe25a9e18811ebc3fbfcef61729f"
+   },
+   "region": {
+    "file": "B5-142-region.pptx",
+    "sha256": "2615642897276a8c1acb19462b5758d1536b77df541b896c26e04b2c5219e898"
+   }
+  },
+  "B7-151": {
+   "page": {
+    "file": "B7-151-page.pptx",
+    "sha256": "fe2f8a656d3a229a28e9b2ba8fc527c0f34ba03dd3551aa6f83f5b97fad89ab8"
+   }
+  },
+  "B8-404": {
+   "page": {
+    "file": "B8-404-page.pptx",
+    "sha256": "dc6fb20b4cff336a9c1a9b78e1206cf150d9fde55f17dcc976cc6c3ae919720b"
+   },
+   "region": {
+    "file": "B8-404-region.pptx",
+    "sha256": "425f322ac0fb6d8fe9e16699afc73e1b25afc458bf7d512147c068368aa94387"
+   }
+  },
+  "B3-109": {
+   "page": {
+    "file": "B3-109-page.pptx",
+    "sha256": "0b9170c865517ff10e4c6340e1e7f0d085f087183616acfee0c168e520c053d1"
+   },
+   "region": {
+    "file": "B3-109-region.pptx",
+    "sha256": "fce3d65a3efe1ae0932d386f8defe43c0be61729cc7ab0bc32d941b04dec4f89"
+   }
+  },
+  "B7-159": {
+   "page": {
+    "file": "B7-159-page.pptx",
+    "sha256": "a92cfd2b59d60514293eea968025a1d2a0761eaa8df988ee298f34225732d322"
+   }
+  },
+  "B7-192": {
+   "page": {
+    "file": "B7-192-page.pptx",
+    "sha256": "e10a32881addf741497c719fd2a06a35f9a566af34a8957bcf3e0b1a8585e900"
+   },
+   "region": {
+    "file": "B7-192-region.pptx",
+    "sha256": "e331cf8665aafad598457349c69887e00ed53015c74639aa377ec77a477be21f"
+   }
+  },
+  "B8-304": {
+   "page": {
+    "file": "B8-304-page.pptx",
+    "sha256": "29aafe4f3507e19288cf2ce6c32a72ff1000c909a775297aa17c7557b8b77820"
+   }
+  },
+  "B8-465": {
+   "page": {
+    "file": "B8-465-page.pptx",
+    "sha256": "785fe0d721b5b56b4b79915917c4c0cbb734e3c3af9d19546f4065f9cbc3765c"
+   },
+   "region": {
+    "file": "B8-465-region.pptx",
+    "sha256": "f75e93d7205511044c828b055744c666a07d8742a751b201c77fe1447213ed07"
+   }
+  },
+  "K02": {
+   "page": {
+    "file": "K02-page.pptx",
+    "sha256": "e85045596f1ffe3b1da9623401d5082382713fec02e8029280842c4e63327e8f"
+   },
+   "region": {
+    "file": "K02-region.pptx",
+    "sha256": "0f5078b4339da4aceaab4bb0dea13d42e050c5ad798cafcb75772eb5ba985198"
+   }
+  },
+  "K05": {
+   "page": {
+    "file": "K05-page.pptx",
+    "sha256": "098dba90b98baa1acf8d89249f01a3a9caecda6608034738c1d8529f41d497d7"
+   },
+   "component": {
+    "file": "K05-component.pptx",
+    "sha256": "c6049b7f432a8da7cca5445a48b70c780234fff68a1e1d5f9e00d298ed19f096"
+   }
+  },
+  "K08": {
+   "page": {
+    "file": "K08-page.pptx",
+    "sha256": "3f4898e6a7a88c39f05d6eb1402bba6cb016c6801f65395e48de71df91bdb372"
+   },
+   "region": {
+    "file": "K08-region.pptx",
+    "sha256": "16ef0625cdd39c52003e15444aedd11d36e1b62f0ae31751f956ee2f2376a384"
+   }
+  }
+ }
+}

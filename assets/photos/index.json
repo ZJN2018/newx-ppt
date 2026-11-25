@@ -1,0 +1,1465 @@
+{
+ "source": "KoalaAI/StockImages-CC0 (Hugging Face), CC0-1.0",
+ "images": [
+  {
+   "file": "city-01.jpg",
+   "category": "城市楼宇",
+   "tags": [
+    "skyline",
+    "building",
+    "city",
+    "skyscraper",
+    "cityscape",
+    "downtown",
+    "haze",
+    "tower block",
+    "metropolis",
+    "neighbourhood",
+    "bird's eye view",
+    "aerial photography",
+    "urban area",
+    "monochrome photography",
+    "residential area"
+   ],
+   "size": [
+    1200,
+    900
+   ],
+   "tone": "light",
+   "desc": "城市航拍，棕褐低饱和，方格街区与停车场",
+   "keywords": [
+    "城市",
+    "航拍",
+    "街区",
+    "全景",
+    "区域",
+    "经营概况"
+   ],
+   "avoid": "可辨认洛杉矶市政厅"
+  },
+  {
+   "file": "city-02.jpg",
+   "category": "城市楼宇",
+   "tags": [
+    "skyline",
+    "building",
+    "city",
+    "skyscraper",
+    "new york",
+    "cityscape",
+    "downtown",
+    "landmark",
+    "tower block",
+    "metropolis",
+    "neighbourhood",
+    "urban area",
+    "monochrome photography",
+    "residential area"
+   ],
+   "size": [
+    1200,
+    675
+   ],
+   "tone": "mid",
+   "desc": "城市天际线，黑白，摩天楼居中",
+   "keywords": [
+    "城市",
+    "天际线",
+    "总部",
+    "高楼",
+    "黑白"
+   ],
+   "avoid": "可辨认纽约帝国大厦"
+  },
+  {
+   "file": "city-03.jpg",
+   "category": "城市楼宇",
+   "tags": [
+    "building",
+    "skyscraper",
+    "new york",
+    "manhattan",
+    "new york city",
+    "cityscape",
+    "downtown",
+    "suburb",
+    "tower block",
+    "metropolis",
+    "neighbourhood",
+    "bird's eye view",
+    "aerial photography",
+    "urban area",
+    "residential area",
+    "human settlement"
+   ],
+   "size": [
+    1200,
+    796
+   ],
+   "tone": "light",
+   "desc": "城市高空俯瞰，暖雾，密集街区",
+   "keywords": [
+    "城市",
+    "俯瞰",
+    "全景",
+    "区域",
+    "总体"
+   ],
+   "avoid": "可辨认纽约中城"
+  },
+  {
+   "file": "city-04.jpg",
+   "category": "城市楼宇",
+   "tags": [
+    "architecture",
+    "vine",
+    "sunlight",
+    "building",
+    "skyscraper",
+    "overgrown",
+    "highrise",
+    "reflection",
+    "symmetry"
+   ],
+   "size": [
+    1200,
+    857
+   ],
+   "tone": "mid",
+   "desc": "住宅楼内院仰视，混凝土立面爬藤，天空过曝",
+   "keywords": [
+    "社区",
+    "住宅",
+    "居民",
+    "街道",
+    "基层",
+    "城市"
+   ]
+  },
+  {
+   "file": "city-05.jpg",
+   "category": "城市楼宇",
+   "tags": [
+    "skyline",
+    "night",
+    "building",
+    "city",
+    "skyscraper",
+    "cityscape",
+    "downtown",
+    "dusk",
+    "evening",
+    "landmark",
+    "tower block",
+    "metropolis",
+    "aerial photography",
+    "human settlement"
+   ],
+   "size": [
+    1200,
+    866
+   ],
+   "tone": "dark",
+   "desc": "海滨城市夜景，高楼与海岸灯带",
+   "keywords": [
+    "城市",
+    "夜景",
+    "海滨",
+    "灯光"
+   ],
+   "avoid": "可辨认黄金海岸Q1塔楼"
+  },
+  {
+   "file": "city-06.jpg",
+   "category": "城市楼宇",
+   "tags": [
+    "skyline",
+    "building",
+    "city",
+    "skyscraper",
+    "new york",
+    "manhattan",
+    "cityscape",
+    "downtown",
+    "dusk",
+    "evening",
+    "landmark",
+    "tower block",
+    "metropolis",
+    "neighbourhood",
+    "urban area",
+    "geographical feature"
+   ],
+   "size": [
+    1200,
+    565
+   ],
+   "tone": "mid",
+   "desc": "城市黄昏，暖色天际线",
+   "keywords": [
+    "城市",
+    "黄昏",
+    "天际线",
+    "展望"
+   ],
+   "avoid": "可辨认纽约帝国大厦"
+  },
+  {
+   "file": "city-07.jpg",
+   "category": "城市楼宇",
+   "tags": [
+    "cloud",
+    "sky",
+    "skyline",
+    "city",
+    "skyscraper",
+    "new york",
+    "manhattan",
+    "cityscape",
+    "panorama",
+    "downtown",
+    "dusk",
+    "meteorological phenomenon",
+    "urban area",
+    "geographical feature"
+   ],
+   "size": [
+    1200,
+    799
+   ],
+   "tone": "light",
+   "desc": "城市天际线，大片积云压顶",
+   "keywords": [
+    "城市",
+    "天际线",
+    "云",
+    "展望"
+   ],
+   "avoid": "可辨认曼哈顿"
+  },
+  {
+   "file": "city-08.jpg",
+   "category": "城市楼宇",
+   "tags": [
+    "coast",
+    "horizon",
+    "skyline",
+    "city",
+    "skyscraper",
+    "cityscape",
+    "panorama",
+    "downtown",
+    "dusk",
+    "evening",
+    "reflection",
+    "tower",
+    "landmark",
+    "metropolis",
+    "bird's eye view",
+    "aerial photography",
+    "urban area",
+    "geographical feature"
+   ],
+   "size": [
+    1200,
+    760
+   ],
+   "tone": "mid",
+   "desc": "城市下城航拍，河流、码头与桥",
+   "keywords": [
+    "城市",
+    "航拍",
+    "河流",
+    "桥梁"
+   ],
+   "avoid": "可辨认曼哈顿下城"
+  },
+  {
+   "file": "city-10.jpg",
+   "category": "城市楼宇",
+   "tags": [
+    "architecture",
+    "skyscraper",
+    "pattern",
+    "line",
+    "atrium",
+    "facade",
+    "circle",
+    "design",
+    "symmetry",
+    "dome",
+    "shape",
+    "daylighting"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "light",
+   "desc": "博物馆中庭穹顶，黑白",
+   "keywords": [
+    "建筑",
+    "穹顶",
+    "文化"
+   ],
+   "avoid": "地点明确（大英博物馆），有铭文"
+  },
+  {
+   "file": "city-11.jpg",
+   "category": "城市楼宇",
+   "tags": [
+    "cloud",
+    "architecture",
+    "sky",
+    "sunlight",
+    "building",
+    "skyscraper",
+    "reflection",
+    "freedom tower",
+    "blue"
+   ],
+   "size": [
+    1200,
+    799
+   ],
+   "tone": "mid",
+   "desc": "超高层塔楼仰视，云雾环绕",
+   "keywords": [
+    "高楼",
+    "地标"
+   ],
+   "avoid": "地标过强（世贸一号楼）"
+  },
+  {
+   "file": "logistics-01.jpg",
+   "category": "物流交通",
+   "tags": [
+    "desert",
+    "highway",
+    "windmill",
+    "machine"
+   ],
+   "size": [
+    1200,
+    805
+   ],
+   "tone": "mid",
+   "desc": "白色沙地公路与风机",
+   "keywords": [
+    "公路",
+    "道路",
+    "旷野"
+   ]
+  },
+  {
+   "file": "logistics-02.jpg",
+   "category": "物流交通",
+   "tags": [
+    "railway",
+    "railroad",
+    "bridge",
+    "highway",
+    "vehicle"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "mid",
+   "desc": "山区铁路双轨，枕木与护栏",
+   "keywords": [
+    "铁路",
+    "轨道",
+    "运输",
+    "线路"
+   ]
+  },
+  {
+   "file": "logistics-03.jpg",
+   "category": "物流交通",
+   "tags": [
+    "coast",
+    "ocean",
+    "horizon",
+    "cloud",
+    "sunrise",
+    "boat",
+    "morning",
+    "wave",
+    "dawn",
+    "ship",
+    "oceanliner",
+    "tanker",
+    "dusk",
+    "reflection",
+    "vehicle",
+    "bay",
+    "channel",
+    "watercraft"
+   ],
+   "size": [
+    1200,
+    675
+   ],
+   "tone": "light",
+   "desc": "平静海面与三艘远洋船",
+   "keywords": [
+    "航运",
+    "船舶",
+    "海运",
+    "外贸"
+   ]
+  },
+  {
+   "file": "logistics-04.jpg",
+   "category": "物流交通",
+   "tags": [
+    "sand",
+    "horizon",
+    "morning",
+    "desert",
+    "dune",
+    "highway",
+    "asphalt",
+    "pavement",
+    "road trip",
+    "infrastructure",
+    "habitat",
+    "road surface"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "mid",
+   "desc": "沙漠公路，双黄线直插地平线",
+   "keywords": [
+    "公路",
+    "道路",
+    "前路",
+    "目标"
+   ]
+  },
+  {
+   "file": "logistics-05.jpg",
+   "category": "物流交通",
+   "tags": [
+    "light",
+    "sunset",
+    "road",
+    "traffic",
+    "night",
+    "sunlight",
+    "highway",
+    "freeway",
+    "dusk",
+    "evening",
+    "line",
+    "reflection",
+    "weather",
+    "darkness"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "dark",
+   "desc": "夜间城市快速路，车灯光轨",
+   "keywords": [
+    "交通",
+    "道路",
+    "线路",
+    "车流",
+    "物流",
+    "运输",
+    "速度",
+    "效率"
+   ]
+  },
+  {
+   "file": "logistics-06.jpg",
+   "category": "物流交通",
+   "tags": [
+    "airplane",
+    "plane",
+    "tarmac",
+    "vehicle",
+    "airline",
+    "aviation",
+    "infrastructure",
+    "boarding",
+    "airliner",
+    "air force",
+    "jet aircraft",
+    "atmosphere of earth",
+    "wide body aircraft",
+    "airport apron"
+   ],
+   "size": [
+    1200,
+    700
+   ],
+   "tone": "light",
+   "desc": "客机停靠廊桥，地勤车作业",
+   "keywords": [
+    "航空",
+    "机场",
+    "客机",
+    "民航"
+   ]
+  },
+  {
+   "file": "logistics-07.jpg",
+   "category": "物流交通",
+   "tags": [
+    "horizon",
+    "hill",
+    "highway",
+    "asphalt",
+    "desolate",
+    "bleak",
+    "lane",
+    "road trip",
+    "infrastructure",
+    "mountain pass",
+    "atmospheric phenomenon"
+   ],
+   "size": [
+    1200,
+    796
+   ],
+   "tone": "mid",
+   "desc": "荒原公路与低云",
+   "keywords": [
+    "公路",
+    "道路",
+    "旷野"
+   ]
+  },
+  {
+   "file": "logistics-08.jpg",
+   "category": "物流交通",
+   "tags": [
+    "traffic",
+    "night",
+    "highway",
+    "evening",
+    "line",
+    "darkness",
+    "street light"
+   ],
+   "size": [
+    1200,
+    797
+   ],
+   "tone": "dark",
+   "desc": "夜间高速弯道，车灯长曝光",
+   "keywords": [
+    "交通",
+    "高速",
+    "道路",
+    "车流",
+    "物流",
+    "运输"
+   ]
+  },
+  {
+   "file": "logistics-09.jpg",
+   "category": "物流交通",
+   "tags": [
+    "nature",
+    "grass",
+    "horizon",
+    "cloud",
+    "sky",
+    "road",
+    "prairie",
+    "sunlight",
+    "morning",
+    "hill",
+    "highway",
+    "wind",
+    "mountain range",
+    "dusk",
+    "crop",
+    "power line",
+    "agriculture",
+    "plain",
+    "rural area",
+    "paddy field",
+    "meteorological phenomenon"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "mid",
+   "desc": "乡野公路、农田、电杆与远山",
+   "keywords": [
+    "乡村",
+    "公路",
+    "农田",
+    "农村",
+    "县域"
+   ]
+  },
+  {
+   "file": "office-01.jpg",
+   "category": "办公会议",
+   "tags": [
+    "person",
+    "light",
+    "black and white",
+    "window",
+    "city",
+    "meeting",
+    "reflection",
+    "symmetry",
+    "photograph",
+    "snapshot",
+    "image"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "dark",
+   "desc": "黑白剪影：人物站在落地窗前看城市",
+   "keywords": [
+    "办公",
+    "思考",
+    "管理",
+    "远眺",
+    "战略"
+   ]
+  },
+  {
+   "file": "office-02.jpg",
+   "category": "办公会议",
+   "tags": [
+    "desk",
+    "mac",
+    "table",
+    "chair",
+    "letter",
+    "phone",
+    "furniture",
+    "room",
+    "lighting"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "dark",
+   "desc": "深色桌面、平板、手机与绿植",
+   "keywords": [
+    "办公",
+    "数字化",
+    "平板",
+    "手机",
+    "移动办公",
+    "信息化"
+   ]
+  },
+  {
+   "file": "office-03.jpg",
+   "category": "办公会议",
+   "tags": [
+    "wood",
+    "window",
+    "building",
+    "loft",
+    "office",
+    "studio",
+    "lighting",
+    "interior design"
+   ],
+   "size": [
+    1200,
+    900
+   ],
+   "tone": "dark",
+   "desc": "空置loft办公室，大窗与吊灯",
+   "keywords": [
+    "办公室",
+    "办公环境",
+    "空间",
+    "工位"
+   ]
+  },
+  {
+   "file": "office-04.jpg",
+   "category": "办公会议",
+   "tags": [
+    "computer",
+    "technology",
+    "workspace",
+    "desktop",
+    "speaker",
+    "room",
+    "product",
+    "electronics",
+    "multimedia",
+    "radio receiver",
+    "electronic device"
+   ],
+   "size": [
+    1200,
+    867
+   ],
+   "tone": "light",
+   "desc": "桌面俯拍：键盘、音箱、咖啡、平板",
+   "keywords": [
+    "办公",
+    "电脑",
+    "键盘",
+    "数字化",
+    "信息系统"
+   ]
+  },
+  {
+   "file": "office-05.jpg",
+   "category": "办公会议",
+   "tags": [
+    "aptop",
+    "computer",
+    "mac",
+    "writing",
+    "work",
+    "hand",
+    "typing",
+    "finger",
+    "gadget",
+    "close up",
+    "human body",
+    "eye"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "mid",
+   "desc": "双手在笔记本电脑上打字",
+   "keywords": [
+    "电脑",
+    "录入",
+    "补录",
+    "数据",
+    "系统",
+    "台账",
+    "信息化",
+    "文书"
+   ]
+  },
+  {
+   "file": "office-06.jpg",
+   "category": "办公会议",
+   "tags": [
+    "erson",
+    "black and white",
+    "meeting",
+    "people socializing",
+    "photograph"
+   ],
+   "size": [
+    1200,
+    792
+   ],
+   "tone": "dark",
+   "desc": "黑白剪影：一小组人围站窗前开会",
+   "keywords": [
+    "会议",
+    "团队",
+    "讨论",
+    "协作",
+    "管理",
+    "例会"
+   ]
+  },
+  {
+   "file": "office-07.jpg",
+   "category": "办公会议",
+   "tags": [
+    "table",
+    "chair",
+    "floor",
+    "home",
+    "property",
+    "living room",
+    "furniture",
+    "work space",
+    "office space",
+    "meeting room",
+    "interior design",
+    "hardwood",
+    "dining room",
+    "wood flooring"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "mid",
+   "desc": "窗边会议桌与四把椅子",
+   "keywords": [
+    "会议室",
+    "会议",
+    "讨论",
+    "议事"
+   ]
+  },
+  {
+   "file": "office-08.jpg",
+   "category": "办公会议",
+   "tags": [
+    "table",
+    "white",
+    "chair",
+    "seat",
+    "office",
+    "shelf",
+    "furniture",
+    "room"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "mid",
+   "desc": "白色桌椅与一本摊开的杂志",
+   "keywords": [
+    "阅读",
+    "书刊",
+    "杂志",
+    "资料",
+    "学习"
+   ]
+  },
+  {
+   "file": "office-09.jpg",
+   "category": "办公会议",
+   "tags": [
+    "ight",
+    "floor",
+    "home",
+    "wall",
+    "workspace",
+    "living room",
+    "furniture",
+    "work space",
+    "office space",
+    "interior design"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "light",
+   "desc": "空房间、木桌与两扇白框窗",
+   "keywords": [
+    "空间",
+    "房间",
+    "场地",
+    "简洁"
+   ]
+  },
+  {
+   "file": "industry-02.jpg",
+   "category": "工业科技",
+   "tags": [
+    "orest",
+    "fog",
+    "windmill",
+    "machine",
+    "environmental",
+    "wind turbine",
+    "energy"
+   ],
+   "size": [
+    1200,
+    704
+   ],
+   "tone": "light",
+   "desc": "雾中风机与林线",
+   "keywords": [
+    "风电",
+    "能源",
+    "新能源",
+    "绿色",
+    "环保"
+   ]
+  },
+  {
+   "file": "industry-03.jpg",
+   "category": "工业科技",
+   "tags": [
+    "water",
+    "ocean",
+    "dock",
+    "sunset",
+    "bridge",
+    "night",
+    "pier",
+    "cityscape",
+    "dusk",
+    "evening",
+    "reflection",
+    "vehicle",
+    "landmark",
+    "harbor",
+    "industry",
+    "marina"
+   ],
+   "size": [
+    1200,
+    742
+   ],
+   "tone": "dark",
+   "desc": "日落码头栈桥与港口吊机",
+   "keywords": [
+    "港口",
+    "码头",
+    "吊机",
+    "航运"
+   ]
+  },
+  {
+   "file": "industry-04.jpg",
+   "category": "工业科技",
+   "tags": [
+    "indmill",
+    "machine",
+    "wind turbine",
+    "electricity",
+    "energy"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "mid",
+   "desc": "草场上的三台风机",
+   "keywords": [
+    "风电",
+    "能源",
+    "新能源",
+    "绿色"
+   ]
+  },
+  {
+   "file": "industry-05.jpg",
+   "category": "工业科技",
+   "tags": [
+    "rchitecture",
+    "house",
+    "roof",
+    "building",
+    "facade",
+    "industrial",
+    "professional",
+    "corrugated",
+    "headquarters",
+    "siding"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "light",
+   "desc": "压型金属屋面与天空",
+   "keywords": [
+    "厂房",
+    "屋面",
+    "工业",
+    "建筑"
+   ]
+  },
+  {
+   "file": "industry-07.jpg",
+   "category": "工业科技",
+   "tags": [
+    "ight",
+    "technology",
+    "cable",
+    "line",
+    "color",
+    "darkness",
+    "blue",
+    "lighting",
+    "laser",
+    "macro photography",
+    "electronic device"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "dark",
+   "desc": "蓝紫光斑与电路微距",
+   "keywords": [
+    "科技",
+    "电子",
+    "芯片",
+    "数字化",
+    "技术"
+   ]
+  },
+  {
+   "file": "industry-08.jpg",
+   "category": "工业科技",
+   "tags": [
+    "building",
+    "transport",
+    "shack",
+    "factory"
+   ],
+   "size": [
+    1200,
+    756
+   ],
+   "tone": "light",
+   "desc": "筒仓、厂房与土路",
+   "keywords": [
+    "厂房",
+    "工厂",
+    "仓储",
+    "筒仓",
+    "农业",
+    "制造"
+   ]
+  },
+  {
+   "file": "industry-09.jpg",
+   "category": "工业科技",
+   "tags": [
+    "ehicle",
+    "aviation",
+    "space",
+    "industry",
+    "public transport"
+   ],
+   "size": [
+    1200,
+    797
+   ],
+   "tone": "dark",
+   "desc": "工业屋面、管道的深色剪影",
+   "keywords": [
+    "工业",
+    "管道",
+    "厂房",
+    "制造"
+   ]
+  },
+  {
+   "file": "nature-01.jpg",
+   "category": "自然意境",
+   "tags": [
+    "nature",
+    "marsh",
+    "wetlands",
+    "swamp",
+    "wilderness",
+    "meadow",
+    "hill",
+    "lake",
+    "river",
+    "valley",
+    "mountain range",
+    "reservoir",
+    "highland",
+    "plateau",
+    "loch",
+    "rural area",
+    "landform",
+    "geographical feature"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "mid",
+   "desc": "湿地草甸、水面与远山",
+   "keywords": [
+    "自然",
+    "湿地",
+    "生态",
+    "环保",
+    "绿色"
+   ]
+  },
+  {
+   "file": "nature-02.jpg",
+   "category": "自然意境",
+   "tags": [
+    "forest",
+    "fog",
+    "road",
+    "mist",
+    "morning",
+    "jungle",
+    "weather",
+    "haze",
+    "atmospheric phenomenon"
+   ],
+   "size": [
+    1200,
+    797
+   ],
+   "tone": "mid",
+   "desc": "雾中林荫路，树冠夹道",
+   "keywords": [
+    "道路",
+    "林荫",
+    "乡村",
+    "前路",
+    "展望",
+    "绿色"
+   ]
+  },
+  {
+   "file": "nature-03.jpg",
+   "category": "自然意境",
+   "tags": [
+    "cloud",
+    "sky",
+    "sunrise",
+    "sunlight",
+    "cloudy",
+    "air",
+    "whisp",
+    "morning",
+    "dawn",
+    "dusk",
+    "weather",
+    "meteorological phenomenon"
+   ],
+   "size": [
+    1200,
+    900
+   ],
+   "tone": "mid",
+   "desc": "晚霞云层，下缘压着山影",
+   "keywords": [
+    "天空",
+    "晚霞",
+    "云",
+    "展望",
+    "愿景"
+   ]
+  },
+  {
+   "file": "nature-04.jpg",
+   "category": "自然意境",
+   "tags": [
+    "sand",
+    "horizon",
+    "mountain",
+    "sky",
+    "hill",
+    "arid",
+    "desert",
+    "dune",
+    "valley",
+    "plain",
+    "badlands",
+    "plateau",
+    "habitat",
+    "ecosystem",
+    "sahara",
+    "wadi",
+    "steppe",
+    "erg",
+    "natural environment",
+    "geographical feature"
+   ],
+   "size": [
+    1200,
+    799
+   ],
+   "tone": "mid",
+   "desc": "荒漠丘陵与蓝天",
+   "keywords": [
+    "自然",
+    "荒漠",
+    "丘陵",
+    "旷野"
+   ]
+  },
+  {
+   "file": "fresh-01.jpg",
+   "category": "生鲜食品",
+   "tags": [
+    "produce",
+    "vegetable",
+    "fresh",
+    "basket",
+    "groceries",
+    "avocado"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "mid",
+   "desc": "藤篮里的牛油果、番茄与黄椒",
+   "keywords": [
+    "生鲜",
+    "蔬菜",
+    "果蔬",
+    "农产品",
+    "食品"
+   ]
+  },
+  {
+   "file": "fresh-02.jpg",
+   "category": "生鲜食品",
+   "tags": [
+    "pple",
+    "fruit",
+    "food",
+    "green",
+    "produce",
+    "lime",
+    "liqueur",
+    "citrus",
+    "flowering plant",
+    "ros"
+   ],
+   "size": [
+    1200,
+    801
+   ],
+   "tone": "dark",
+   "desc": "桶装青苹果，旁有纸箱",
+   "keywords": [
+    "水果",
+    "苹果",
+    "果品",
+    "生鲜",
+    "农产品"
+   ]
+  },
+  {
+   "file": "fresh-03.jpg",
+   "category": "生鲜食品",
+   "tags": [
+    "ruit",
+    "berry",
+    "food",
+    "produce",
+    "blueberry",
+    "flowering plant"
+   ],
+   "size": [
+    1200,
+    797
+   ],
+   "tone": "light",
+   "desc": "蓝莓与切开的橙子",
+   "keywords": [
+    "水果",
+    "鲜果",
+    "生鲜",
+    "食品"
+   ]
+  },
+  {
+   "file": "fresh-04.jpg",
+   "category": "生鲜食品",
+   "tags": [
+    "meal",
+    "seaweed",
+    "oyster",
+    "plate",
+    "seafood",
+    "fresh",
+    "cuisine",
+    "invertebrate",
+    "asia"
+   ],
+   "size": [
+    1200,
+    900
+   ],
+   "tone": "light",
+   "desc": "米饭上的牡蛎与海藻",
+   "keywords": [
+    "海鲜",
+    "水产",
+    "餐饮",
+    "食品"
+   ]
+  },
+  {
+   "file": "fresh-05.jpg",
+   "category": "生鲜食品",
+   "tags": [
+    "meal",
+    "food",
+    "meat",
+    "lunch",
+    "cuisine",
+    "grilling",
+    "barbecue grill",
+    "human action"
+   ],
+   "size": [
+    1200,
+    900
+   ],
+   "tone": "dark",
+   "desc": "烤架上的三文鱼与柠檬",
+   "keywords": [
+    "水产",
+    "三文鱼",
+    "餐饮",
+    "食品"
+   ]
+  },
+  {
+   "file": "fresh-06.jpg",
+   "category": "生鲜食品",
+   "tags": [
+    "branch",
+    "blossom",
+    "snow",
+    "winter",
+    "fruit",
+    "leaf",
+    "flower",
+    "food",
+    "spring",
+    "red",
+    "pr"
+   ],
+   "size": [
+    1200,
+    800
+   ],
+   "tone": "light",
+   "desc": "枝头红果与残雪",
+   "keywords": [
+    "果树",
+    "农业",
+    "冬季",
+    "果品"
+   ]
+  },
+  {
+   "file": "logistics-10.jpg",
+   "category": "物流交通",
+   "tags": [
+    "coast",
+    "ocean",
+    "dock",
+    "bridge",
+    "pier",
+    "transport",
+    "vehicle",
+    "bay",
+    "harbor",
+    "port"
+   ],
+   "size": [
+    1200,
+    803
+   ],
+   "tone": "light",
+   "desc": "水面望向集装箱码头与岸桥",
+   "keywords": [
+    "港口",
+    "集装箱",
+    "码头",
+    "外贸",
+    "物流"
+   ]
+  },
+  {
+   "file": "logistics-11.jpg",
+   "category": "物流交通",
+   "tags": [
+    "andscape",
+    "tree",
+    "snow",
+    "track",
+    "hill",
+    "train",
+    "valley",
+    "mountain range",
+    "transport",
+    "f"
+   ],
+   "size": [
+    1200,
+    801
+   ],
+   "tone": "mid",
+   "desc": "山区铁路货运列车",
+   "keywords": [
+    "铁路",
+    "货运",
+    "列车"
+   ],
+   "avoid": "车体有明确标识（Canada）"
+  },
+  {
+   "file": "logistics-12.jpg",
+   "category": "物流交通",
+   "tags": [
+    "coast",
+    "dock",
+    "boat",
+    "lake",
+    "vehicle",
+    "bay",
+    "harbor",
+    "port",
+    "cargo ship",
+    "waterway"
+   ],
+   "size": [
+    1200,
+    900
+   ],
+   "tone": "mid",
+   "desc": "港湾货轮与雪山",
+   "keywords": [
+    "港口",
+    "货轮",
+    "航运"
+   ]
+  },
+  {
+   "file": "logistics-13.jpg",
+   "category": "物流交通",
+   "tags": [
+    "each",
+    "sea",
+    "coast",
+    "ocean",
+    "boat",
+    "vehicle",
+    "bay",
+    "harbor",
+    "cargo ship",
+    "waterway",
+    "bod"
+   ],
+   "size": [
+    1200,
+    799
+   ],
+   "tone": "light",
+   "desc": "岸边渔船，船上晾着衣物",
+   "keywords": [
+    "渔业",
+    "渔船",
+    "水产",
+    "渔港"
+   ]
+  }
+ ],
+ "note": "desc/keywords 为人工看图后写的中文画面描述与匹配词；带 avoid 的图有明确地点或标识，不参与自动匹配，只能按文件名指定。"
+}
